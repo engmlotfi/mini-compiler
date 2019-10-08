@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component jdk="JavaSE-1.8">
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$"/>
+	<lib name="antlr-4.7-complete.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/antlr-4.7-complete.jar!/"/>
+	</lib>
+	<lib name="introspector.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/introspector.jar!/"/>
+	</lib>
+</component>
